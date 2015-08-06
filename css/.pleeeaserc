@@ -1,0 +1,8 @@
+{
+  "in": ["*.css", "*.scss"],
+  "out": "production.min.css",
+  "rem":true,
+  "sass": true,
+  "minifier": false,
+  "browsers": ["last 6 versions"]
+}
