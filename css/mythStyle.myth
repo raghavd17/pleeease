@@ -1,0 +1,11 @@
+:root {
+  --green: rgb(255, 0, 0);
+  --bodyTextColor:rgba(0, 0, 0, 1);
+  --textSize: 1.6rem;
+}
+
+h1.heading {
+ color: color(var(--green) lightness(+20%));
+ font-size: calc(var(--textSize)+1)
+
+}
