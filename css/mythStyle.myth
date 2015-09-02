@@ -6,6 +6,6 @@
 
 h1.heading {
  color: color(var(--green) lightness(+20%));
- font-size: calc(var(--textSize)+1)
+ font-size: calc(var(--textSize)+2)
 
 }
